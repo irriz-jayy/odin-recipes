@@ -1,0 +1,1 @@
+The current project is about a basic recipe website. The skills i will have used are basic creation and manipulation of a html document. Plus use of git in the terminal to create, clone and push the project.
